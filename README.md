@@ -49,7 +49,6 @@ This project also includes a **Dockerfile** for containerized deployment.
 
 Build and run locally:
 
-```bash
 docker build -t california-house-app .
 docker run -p 5000:5000 -e PORT=5000 california-house-app
 Access at: http://localhost:5000

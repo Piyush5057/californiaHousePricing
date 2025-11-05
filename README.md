@@ -56,8 +56,6 @@ Access at: http://localhost:5000
 
 ---
 
-
-'''markdown
 ### Preview
 
 ![Homepage](static/home.png)

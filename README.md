@@ -58,5 +58,5 @@ Access at: http://localhost:5000
 
 ### Preview
 
-![Homepage](static/home.png)
-![Prediction Result](static/result.png)
+![Homepage](californiaHousePricing/static/home.png)
+![Prediction Result](californiaHousePricing/static/result.png)
